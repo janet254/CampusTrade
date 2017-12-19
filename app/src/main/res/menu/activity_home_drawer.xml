@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item android:title="Personal">
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/profile"
+            android:title="Profile" />
+        <item
+            android:id="@+id/nav_favourites"
+            android:icon="@drawable/favourites"
+            android:title="My Favourites" />
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/logout"
+            android:title="Log Out" />
+    </item>
+
+    <item android:title="Categories">
+        <menu>
+            <item
+                android:id="@+id/nav_accessories"
+                android:icon="@drawable/accesories"
+                android:title="Accessories" />
+            <item
+                android:id="@+id/nav_art"
+                android:icon="@drawable/art"
+                android:title="Art" />
+            <item
+                android:id="@+id/nav_books"
+                android:icon="@drawable/books"
+                android:title="Books" />
+            <item
+                android:id="@+id/nav_clothing"
+                android:icon="@drawable/clothes"
+                android:title="Clothing" />
+            <item
+                android:id="@+id/nav_electronics"
+                android:icon="@drawable/electronics"
+                android:title="Electronics" />
+            <item
+                android:id="@+id/nav_foodstuff"
+                android:icon="@drawable/foodstuff"
+                android:title="Food Stuff" />
+            <item
+                android:id="@+id/nav_furniture"
+                android:icon="@drawable/furniture"
+                android:title="Furniture" />
+            <item
+                android:id="@+id/nav_groceries"
+                android:icon="@drawable/grocery"
+                android:title="Groceries" />
+            <item
+                android:id="@+id/nav_shoes"
+                android:icon="@drawable/shoes"
+                android:title="Shoes" />
+        </menu>
+    </item>
+
+</menu>

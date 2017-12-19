@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="category">
+        <item>Select a category...</item>
+        <item>Accessories</item>
+        <item> Art </item>
+        <item>Books</item>
+        <item>Clothing</item>
+        <item> Electronics </item>
+        <item>Food Stuff </item>
+        <item>Groceries</item>
+        <item>Shoes</item>
+        <item>Other</item>
+    </string-array>
+</resources>

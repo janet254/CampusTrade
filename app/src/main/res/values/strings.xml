@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Campus Trade</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_register">Registration</string>
+    <string name="title_activity_home">Home</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_supplier_home">Home</string>
+    <string name="title_activity_profile">My Profile</string>
+    <string name="title_activity_update_profile">Update Profile</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_add_item">Add Item</string>
+    <string name="title_activity_accessories">Accessories</string>
+    <string name="title_activity_items_view">Item View</string>
+    <string name="title_activity_orders">My Orders</string>
+    <string name="title_activity_payments">My Payments</string>
+    <string name="title_activity_edit_item">Edit Item</string>
+    <string name="title_activity_profile_pic">Change Profile Picture</string>
+    <string name="title_activity_favourites">My Favourites</string>
+    <string name="title_activity_categories">Category</string>
+    <string name="title_activity_my_favourites">My Favourites</string>
+    <string name="title_activity_cart_items">My Cart</string>
+</resources>
